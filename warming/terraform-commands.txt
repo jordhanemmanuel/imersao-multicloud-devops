@@ -1,0 +1,11 @@
+terraform init
+> Initiate terraform
+
+terraform plan
+> Show a resume of configurations and what they will do
+
+terraform apply
+> Apply all the configurations
+
+terraform destroy
+> Remove all resources on your configuration file, uses the same reference as 'terraform apply'
