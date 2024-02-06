@@ -1,0 +1,7 @@
+warming/live3-docker-cloud/app-pt
+warming/live3-docker-cloud/app/templates
+warming/live4-kubernetes-cloud/__MACOSX
+warming/live4-kubernetes-cloud/tcb-vote/tcb-vote
+warming/live4-kubernetes-cloud/tcb-vote/app_init.supervisord.conf
+warming/live4-kubernetes-cloud/tcb-vote/Dockerfile
+warming/live4-kubernetes-cloud/tcb-vote/sshd_config
